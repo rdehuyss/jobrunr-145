@@ -11,7 +11,7 @@
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
-        <jobrunr.version>3.0.1</jobrunr.version>
+        <jobrunr.version>3.1.1</jobrunr.version>
     </properties>
 
     <parent>
